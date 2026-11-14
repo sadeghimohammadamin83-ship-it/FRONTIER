@@ -1,8 +1,8 @@
 {
  "schemaVersion": 3,
- "dataUpdatedAt": "2026-11-14T14:15:40Z",
+ "dataUpdatedAt": "2026-11-14T19:16:32Z",
  "timezone": "UTC",
- "articleCount": 2122,
+ "articleCount": 2130,
  "dayCount": 52,
  "latestDay": "2026-11-14",
  "sourcesOk": 34,
@@ -10,6 +10,6 @@
  "translation": {
   "enabled": true,
   "engine": "argos-en_fa-1.5",
-  "translated": 2042
+  "translated": 2050
  }
 }

@@ -2,8 +2,87 @@
  "schemaVersion": 3,
  "section": "data-centers",
  "windowDays": 90,
- "total": 287,
+ "total": 289,
  "articles": [
+  {
+   "id": "7640cc164999215c",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "sourceId": "guardian-ai",
+   "sourceName": "The Guardian — Artificial intelligence",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+   "excerpt": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email, free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment…",
+   "lang": "en",
+   "publishedAt": "2026-11-14T19:00:52Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "policy",
+   "tags": [
+    "australian politics",
+    "ai (artificial intelligence)",
+    "datacentres - australia",
+    "technology",
+    "australia news",
+    "liberal party"
+   ],
+   "entities": [],
+   "brand": null,
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=700&quality=85&auto=format&fit=max&s=dbbbdbf07041efa9858063ea5d5d1906",
+    "credit": "Photograph: Lukas Coch/AAP",
+    "kind": "feed",
+    "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
+   },
+   "eventId": "7640cc164999215c",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "\"باید در محراب سود شرکت قربانی نشود\" سناتور لیبرال می گوید که به عنوان بحث سیاست هوش مصنوعی خشم",
+     "excerpt": "اندرو McLachlan می گوید که او جنگل های واقعی را بر روی جنگل های مجازی انتخاب می کند، زیرا او از دولت کار می خواهد تاثیر هوش مصنوعی بر هنرمندان و محیط زیست را در نظر بگیرد ایمیل سیاسی روزانه ما، برنامه رایگان یا پادکست خبری روزانه، سناتور لیبرال اندرو مک لینلان، زنگ خطر را در مورد رویکرد حزب خود و دولت کار برای AI افزایش داده است، و از هنرمندان کپی رایت \"سرمایه گذاری جعلی\" درخواست نمی کند.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "0446b4f8b26ddb27",
+   "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es",
+   "sourceId": "nvidia-youtube",
+   "sourceName": "NVIDIA (YouTube)",
+   "title": "From AI Factories to Intelligent Cities",
+   "excerpt": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastructure and city-led governance support safer streets, more responsive operations, and stronger local AI innovation. #SCEWC26 #SmartCities #aiagents ➡️ Learn more: https://nvda.ws/3Vb9wWH",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:48:26Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "hardware",
+   "tags": [],
+   "entities": [
+    "nvidia"
+   ],
+   "brand": null,
+   "image": {
+    "url": "https://i1.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
+    "kind": "feed",
+    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g"
+   },
+   "video": {
+    "provider": "youtube",
+    "id": "ha-gDrDm8Es",
+    "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+   },
+   "eventId": "0446b4f8b26ddb27",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "از عوامل هوش مصنوعی تا شهرهای هوشمند",
+     "excerpt": "کارخانه های AI، AI فیزیکی و عوامل، ساخته شده با شرکای محلی کمک به شهرها برای بهبود برنامه ریزی، عملیات و خدمات عمومی است. یاد بگیرید که چگونه زیرساخت های مشترک و حمایت از مدیریت شهری امن تر خیابان ها، عملیات پاسخگو تر و نوآوری های قوی تر AI محلی است. #SCEWC26 #SmartCities # aiagents بیشتر یاد می گیرند: https://nvda.ws / 3Vb9wWHwWHW",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
   {
    "id": "27f43cfea51826d9",
    "url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia",
@@ -2021,84 +2100,6 @@
      "excerpt": "اقدامات جداگانه نیز در خارج از حصار و در سراسر اروپا در واکنش به تأثیر فعالان رونق هوش مصنوعی به محل یک مرکز داده مایکروسافت که در آمستردام ساخته شده است، به عنوان واکنش به آسیب های اجتماعی و زیست محیطی رونق هوش مصنوعی در سراسر اروپا. معترضان از Geef Tegengas، یک گروه اقدام مستقیم هلندی، در هنگام شکستن به یک سایت ساختمانی با پلیس برخورد کردند.",
      "engine": "argos-en_fa-1.5",
      "at": "2026-11-06T19:31:24Z"
-    }
-   }
-  },
-  {
-   "id": "fc8f30aee8f3f7ca",
-   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
-   "sourceId": "techcrunch-ai",
-   "sourceName": "TechCrunch AI",
-   "title": "How a Blue Wave midterm might reshape the AI industry",
-   "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a",
-   "lang": "en",
-   "publishedAt": "2026-11-06T18:00:00Z",
-   "dateEstimated": false,
-   "fetchedAt": "2026-11-06T18:31:52Z",
-   "day": "2026-11-06",
-   "category": "hardware",
-   "tags": [
-    "startups",
-    "ai",
-    "marvell",
-    "crowdstrike",
-    "openai",
-    "equity podcast"
-   ],
-   "entities": [],
-   "brand": null,
-   "image": {
-    "url": "images/fallbacks/hardware.svg",
-    "kind": "fallback"
-   },
-   "eventId": "fc8f30aee8f3f7ca",
-   "related": [],
-   "tr": {
-    "fa": {
-     "title": "چگونه یک دوره موج آبی ممکن است صنعت AI را تغییر دهد",
-     "excerpt": "پیروزی های تاریخی دموکرات ها در انتخابات میان دوره ای آمریکا نیز می تواند صنعت فناوری را دگرگون کند. مردم در روز سه شنبه 41 اقدام رای گیری مربوط به مرکز داده رای دادند، اما اکثریت رای دادند تا محدودیت های بیشتری در توسعه مرکز داده اعمال کنند. و حتی هنگامی که مراکز داده به طور مستقیم در رای گیری نبودند، آنها یک بودند.",
-     "engine": "argos-en_fa-1.5",
-     "at": "2026-11-06T18:31:52Z"
-    }
-   }
-  },
-  {
-   "id": "a847314b4ebf3a20",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
-   "sourceId": "guardian-ai",
-   "sourceName": "The Guardian — Artificial intelligence",
-   "title": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
-   "excerpt": "The tech sell-off exposes fragile promises, while Democratic victories offer a chance to protect workers and hold firms accountable This week’s midterms showed that the political bill for the AI boom is falling due. The Democratic sweep intensified fears over runaway spending, mounting debt and resistance to datacentres, sending tech shares tumbling. On Thursday Wall Street suffered its worst…",
-   "lang": "en",
-   "publishedAt": "2026-11-06T17:58:05Z",
-   "dateEstimated": false,
-   "fetchedAt": "2026-11-06T18:31:52Z",
-   "day": "2026-11-06",
-   "category": "hardware",
-   "tags": [
-    "ai (artificial intelligence)",
-    "datacenters – us",
-    "donald trump",
-    "democrats",
-    "republicans",
-    "us news"
-   ],
-   "entities": [],
-   "brand": null,
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=700&quality=85&auto=format&fit=max&s=941d73bab003dbc14364503ddf3ba2e4",
-    "credit": "Photograph: Lauren Owens Lambert/AFP/Getty Images",
-    "kind": "feed",
-    "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
-   },
-   "eventId": "a847314b4ebf3a20",
-   "related": [],
-   "tr": {
-    "fa": {
-     "title": "دیدگاه گاردین در مورد واکنش AI: رای دهندگان آمریکایی می خواهند در آینده خود یک بگویند",
-     "excerpt": "فروش فناوری وعده های شکننده ای را نشان می دهد، در حالی که پیروزی های دموکراتیک فرصتی برای محافظت از کارگران و شرکت های پاسخگو در اواسط هفته جاری نشان می دهد که لایحه سیاسی رونق AI در حال سقوط است. دموکرات ها ترس ها را نسبت به هزینه های فرار، بدهی و مقاومت در برابر پایگاه های داده افزایش دادند و سهام فناوری را به هم ریخت. روز پنجشنبه وال استریت بدترین رنج خود را...",
-     "engine": "argos-en_fa-1.5",
-     "at": "2026-11-06T18:31:52Z"
     }
    }
   }

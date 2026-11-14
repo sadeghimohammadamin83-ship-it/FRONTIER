@@ -3,6 +3,326 @@
  "day": "2026-11-14",
  "articles": [
   {
+   "id": "3a53f4732b0a8eba",
+   "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo",
+   "sourceId": "the-decoder",
+   "sourceName": "The Decoder",
+   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "excerpt": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic…",
+   "lang": "en",
+   "publishedAt": "2026-11-14T19:05:17Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "business",
+   "tags": [
+    "ai and society",
+    "artificial intelligence",
+    "anthropic"
+   ],
+   "entities": [
+    "anthropic"
+   ],
+   "brand": "claude",
+   "image": {
+    "url": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
+    "kind": "feed",
+    "sourceUrl": "https://the-decoder.com/feed/"
+   },
+   "eventId": "3a53f4732b0a8eba",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "مدیر عامل Anthropic Amodei اذعان می کند که \"در آنچه که سال آینده اتفاق می افتد، تردید زیادی وجود دارد\" روز قبل از ثبت IPO",
+     "excerpt": "روزها قبل از اینکه چه چیزی می تواند بزرگترین IPO در تاریخ باشد، مدیر عامل Anthropic Dario Amodei به نام خرید \" عمیق ترین معضل کسب و کار\" شرکت خود را چهره. تعهدات Anthropic در حال حاضر نزدیک به 901 میلیارد دلار است و هنوز مشخص نیست که آیا درآمد آینده این هزینه ها را توجیه خواهد کرد. IPO برنامه ریزی شده به طور عمده به عنوان یک بافر مالی در برابر این عدم اطمینان خدمت می کند. مقاله Anthropic ...",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "7640cc164999215c",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "sourceId": "guardian-ai",
+   "sourceName": "The Guardian — Artificial intelligence",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+   "excerpt": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email, free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment…",
+   "lang": "en",
+   "publishedAt": "2026-11-14T19:00:52Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "policy",
+   "tags": [
+    "australian politics",
+    "ai (artificial intelligence)",
+    "datacentres - australia",
+    "technology",
+    "australia news",
+    "liberal party"
+   ],
+   "entities": [],
+   "brand": null,
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=700&quality=85&auto=format&fit=max&s=dbbbdbf07041efa9858063ea5d5d1906",
+    "credit": "Photograph: Lukas Coch/AAP",
+    "kind": "feed",
+    "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
+   },
+   "eventId": "7640cc164999215c",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "\"باید در محراب سود شرکت قربانی نشود\" سناتور لیبرال می گوید که به عنوان بحث سیاست هوش مصنوعی خشم",
+     "excerpt": "اندرو McLachlan می گوید که او جنگل های واقعی را بر روی جنگل های مجازی انتخاب می کند، زیرا او از دولت کار می خواهد تاثیر هوش مصنوعی بر هنرمندان و محیط زیست را در نظر بگیرد ایمیل سیاسی روزانه ما، برنامه رایگان یا پادکست خبری روزانه، سناتور لیبرال اندرو مک لینلان، زنگ خطر را در مورد رویکرد حزب خود و دولت کار برای AI افزایش داده است، و از هنرمندان کپی رایت \"سرمایه گذاری جعلی\" درخواست نمی کند.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "0446b4f8b26ddb27",
+   "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es",
+   "sourceId": "nvidia-youtube",
+   "sourceName": "NVIDIA (YouTube)",
+   "title": "From AI Factories to Intelligent Cities",
+   "excerpt": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastructure and city-led governance support safer streets, more responsive operations, and stronger local AI innovation. #SCEWC26 #SmartCities #aiagents ➡️ Learn more: https://nvda.ws/3Vb9wWH",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:48:26Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "hardware",
+   "tags": [],
+   "entities": [
+    "nvidia"
+   ],
+   "brand": null,
+   "image": {
+    "url": "https://i1.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
+    "kind": "feed",
+    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g"
+   },
+   "video": {
+    "provider": "youtube",
+    "id": "ha-gDrDm8Es",
+    "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+   },
+   "eventId": "0446b4f8b26ddb27",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "از عوامل هوش مصنوعی تا شهرهای هوشمند",
+     "excerpt": "کارخانه های AI، AI فیزیکی و عوامل، ساخته شده با شرکای محلی کمک به شهرها برای بهبود برنامه ریزی، عملیات و خدمات عمومی است. یاد بگیرید که چگونه زیرساخت های مشترک و حمایت از مدیریت شهری امن تر خیابان ها، عملیات پاسخگو تر و نوآوری های قوی تر AI محلی است. #SCEWC26 #SmartCities # aiagents بیشتر یاد می گیرند: https://nvda.ws / 3Vb9wWHwWHW",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "b08cefd9996dfc5a",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+   "sourceId": "techcrunch-ai",
+   "sourceName": "TechCrunch AI",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:30:00Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "products",
+   "tags": [
+    "ai",
+    "microsoft",
+    "openai",
+    "evergreens",
+    "siri ai"
+   ],
+   "entities": [
+    "apple",
+    "openai"
+   ],
+   "brand": null,
+   "image": {
+    "url": "images/fallbacks/products.svg",
+    "kind": "fallback"
+   },
+   "eventId": "b08cefd9996dfc5a",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "قبرستان هوش مصنوعی: لیستی از پروژه ها و استارتاپ هایی که آن را ساخته بودند",
+     "excerpt": "از اپل به تاخیر انداختن Siri AI برای باز کردن برنامه \"برنامه بالا\" پیچیده، در اینجا نگاهی به پروژه های AI که خاموش یا از دست رفته انتظارات.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "d82d2c1dae8dfaa0",
+   "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
+   "sourceId": "the-decoder",
+   "sourceName": "The Decoder",
+   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "excerpt": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared…",
+   "lang": "en",
+   "publishedAt": "2026-11-14T16:48:01Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "models",
+   "tags": [
+    "ai in practice",
+    "artificial intelligence",
+    "short news",
+    "anthropic",
+    "openai"
+   ],
+   "entities": [
+    "anthropic",
+    "google",
+    "openai"
+   ],
+   "brand": null,
+   "image": {
+    "url": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+    "kind": "feed",
+    "sourceUrl": "https://the-decoder.com/feed/"
+   },
+   "eventId": "d82d2c1dae8dfaa0",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "Gemini 4 Carbon تاج Math Arena را می گیرد اما ۱۵ برابر بیشتر از GPT-6.1 Sol هزینه دارد",
+     "excerpt": "برای اولین بار در یک زمان، هیچ مدل OpenAI منجر به معیار ریاضی ریاضی ریاضی ریاضی ریاضی ریاضی Math Arena AI نمی شود. Google’s Gemini 4 Carbon و Anthropic's Fable 5.2 از بالا GPT-6.1 Sol را از بین برد، هر چند هر دو هزینه قابل توجهی بیشتر است. Gemini محدودیت زمانی را در آزمایش نادیده گرفت و تقریبا هیچ وقت تسلیم یک کار نشد. مقاله Gemini 4 Carbon تاج Math Arena را می گیرد اما 15 برابر بیشتر از GPT-6.1 Sol ظاهر شد.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "a5dca2d386f6a667",
+   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5",
+   "sourceId": "the-decoder",
+   "sourceName": "The Decoder",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "excerpt": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder.",
+   "lang": "en",
+   "publishedAt": "2026-11-14T16:42:56Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "models",
+   "tags": [
+    "ai in practice",
+    "artificial intelligence",
+    "anthropic",
+    "claude",
+    "claude opus"
+   ],
+   "entities": [
+    "anthropic"
+   ],
+   "brand": "claude",
+   "image": {
+    "url": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+    "kind": "feed",
+    "sourceUrl": "https://the-decoder.com/feed/"
+   },
+   "eventId": "a5dca2d386f6a667",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "Anthropic می گوید که عادت های قدیمی باعث کند شدن کلود Opus 5.5",
+     "excerpt": "Anthropic ساخته شده است کلود Opus 5.5 مدل پیش فرض در تمام برنامه های پرداخت شده و منتشر یک راهنمای که دور با عادت های قدیمی است. نکته اصلی این است که \"سخت فکر کنید\" را رها کنید و در تلاش های متوسط شروع کنید. مقاله Anthropic می گوید که عادت های قدیمی باعث کند شدن کلود Opus 5.5 در ابتدا در Decoder ظاهر شد.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "2a2bfff1121f561b",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+   "sourceId": "techcrunch-ai",
+   "sourceName": "TechCrunch AI",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "lang": "en",
+   "publishedAt": "2026-11-14T16:34:15Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "business",
+   "tags": [
+    "ai",
+    "government & policy",
+    "tc",
+    "jensen huang",
+    "nvidia"
+   ],
+   "entities": [
+    "nvidia"
+   ],
+   "brand": null,
+   "image": {
+    "url": "images/fallbacks/business.svg",
+    "kind": "fallback"
+   },
+   "eventId": "2a2bfff1121f561b",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "دولت های آسیایی نسبت به خروج Jensen Huang مدیرعامل Nvidia واکنش نشان می دهند",
+     "excerpt": "برخی از دولت ها برای تایید تعهدات عرضه تراشه حرکت کردند، در حالی که برخی دیگر بر روی پروژه های محلی نظارت می کنند یا به تحقیقات مداوم رسیدگی می کنند.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
+   "id": "d46b516a4c8344dc",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "sourceId": "verge-ai",
+   "sourceName": "The Verge — AI",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "excerpt": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on",
+   "lang": "en",
+   "publishedAt": "2026-11-14T15:00:00Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "safety",
+   "tags": [
+    "ai",
+    "anthropic",
+    "decoder",
+    "openai",
+    "podcasts",
+    "policy"
+   ],
+   "entities": [
+    "openai"
+   ],
+   "brand": "openai",
+   "image": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "alt": "A photo illustration of CSET executive director Helen Toner.",
+    "kind": "feed",
+    "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+   },
+   "eventId": "d46b516a4c8344dc",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "عضو هیئت مدیره OpenAI که Sam Altman را اخراج کرد می گوید ما هنوز نمی توانیم به مدیران اجرایی AI اعتماد کنیم",
+     "excerpt": "امروز من با هلن تونر، مدیر اجرایی مرکز امنیت و فناوری نوظهور در دانشگاه جورج تاون صحبت می کنم. این قسمت بخشی از مجموعه ما در AI در زندگی واقعی است. هلن یک شخصیت شناخته شده در جامعه ایمنی و سیاست AI است، هر چند او احتمالا به خاطر خدمت در آن شناخته شده است.",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
+  {
    "id": "75cfd6180da45505",
    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
    "sourceId": "wired-ai",

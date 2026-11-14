@@ -2,8 +2,47 @@
  "schemaVersion": 3,
  "section": "videos",
  "windowDays": 90,
- "total": 187,
+ "total": 188,
  "articles": [
+  {
+   "id": "0446b4f8b26ddb27",
+   "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es",
+   "sourceId": "nvidia-youtube",
+   "sourceName": "NVIDIA (YouTube)",
+   "title": "From AI Factories to Intelligent Cities",
+   "excerpt": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastructure and city-led governance support safer streets, more responsive operations, and stronger local AI innovation. #SCEWC26 #SmartCities #aiagents ➡️ Learn more: https://nvda.ws/3Vb9wWH",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:48:26Z",
+   "dateEstimated": false,
+   "fetchedAt": "2026-11-14T19:16:32Z",
+   "day": "2026-11-14",
+   "category": "hardware",
+   "tags": [],
+   "entities": [
+    "nvidia"
+   ],
+   "brand": null,
+   "image": {
+    "url": "https://i1.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
+    "kind": "feed",
+    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g"
+   },
+   "video": {
+    "provider": "youtube",
+    "id": "ha-gDrDm8Es",
+    "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+   },
+   "eventId": "0446b4f8b26ddb27",
+   "related": [],
+   "tr": {
+    "fa": {
+     "title": "از عوامل هوش مصنوعی تا شهرهای هوشمند",
+     "excerpt": "کارخانه های AI، AI فیزیکی و عوامل، ساخته شده با شرکای محلی کمک به شهرها برای بهبود برنامه ریزی، عملیات و خدمات عمومی است. یاد بگیرید که چگونه زیرساخت های مشترک و حمایت از مدیریت شهری امن تر خیابان ها، عملیات پاسخگو تر و نوآوری های قوی تر AI محلی است. #SCEWC26 #SmartCities # aiagents بیشتر یاد می گیرند: https://nvda.ws / 3Vb9wWHwWHW",
+     "engine": "argos-en_fa-1.5",
+     "at": "2026-11-14T19:16:32Z"
+    }
+   }
+  },
   {
    "id": "3d1ff3383c408ca7",
    "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
@@ -2344,43 +2383,6 @@
     "fa": {
      "title": "اپل در AI #Vergecast",
      "excerpt": "اپل همه چیز در AI است، OpenAI بی سر و صدا مراکز داده \"دانشگاه های ورودی\"، و دانلود GTA VI تا 212 گیگابایت فضای هارد دیسک نیاز دارد. در اینجا عنوان های برتر امروز است. مشترک: http://goo.gl/G5RXGs مانند Verge در فیس بوک: https://goo.gl/2P1aGc در توییتر دنبال می کنند: https://goo.gl/XTWX61 در اینستاگرام دنبال می کنند: https://goo.gl/7ZeLv Watch The Vergecast در YouTube.",
-     "engine": "argos-en_fa-1.5",
-     "at": "2026-11-03T21:50:06Z"
-    }
-   }
-  },
-  {
-   "id": "b23f2020f822b7a3",
-   "url": "https://www.youtube.com/watch?v=BTcOx_x9BNk",
-   "sourceId": "verge-youtube",
-   "sourceName": "The Verge (YouTube)",
-   "title": "Will data centers rock the vote? | The Vergecast",
-   "excerpt": "It's Election Day in the United States, and data centers have become a core issue in some of the country's most important midterm races. The Verge's Adi Robertson explains why people are uniting against data centers, why they've become a proxy for all kinds of other fights, and how this year's results might change the AI industry going forward. 0:00 Welcome and agenda 00:28 90 Seconds on the…",
-   "lang": "en",
-   "publishedAt": "2026-11-03T20:13:55Z",
-   "dateEstimated": false,
-   "fetchedAt": "2026-11-03T21:50:06Z",
-   "day": "2026-11-03",
-   "category": "hardware",
-   "tags": [],
-   "entities": [],
-   "brand": null,
-   "image": {
-    "url": "https://i3.ytimg.com/vi/BTcOx_x9BNk/hqdefault.jpg",
-    "kind": "feed",
-    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCddiUEpeqJcYeBxX1IVBKvQ"
-   },
-   "video": {
-    "provider": "youtube",
-    "id": "BTcOx_x9BNk",
-    "url": "https://www.youtube.com/watch?v=BTcOx_x9BNk"
-   },
-   "eventId": "b23f2020f822b7a3",
-   "related": [],
-   "tr": {
-    "fa": {
-     "title": "آیا مراکز داده رای می دهند؟",
-     "excerpt": "این روز انتخابات در ایالات متحده است و مراکز داده در برخی از مهم ترین مسابقات میان دوره ای کشور به یک مسئله اصلی تبدیل شده اند. Adi Robertson، Verge توضیح می دهد که چرا مردم در برابر مراکز داده متحد می شوند، چرا آنها تبدیل به یک پروکسی برای همه انواع مبارزه های دیگر شده اند و چگونه نتایج امسال ممکن است صنعت AI را تغییر دهد. 0:00 خوش آمدید و دستور کار!",
      "engine": "argos-en_fa-1.5",
      "at": "2026-11-03T21:50:06Z"
     }

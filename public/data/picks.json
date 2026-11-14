@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "asOf": "2026-11-14T13:00:00Z",
+ "asOf": "2026-11-14T19:05:17Z",
  "weights": {
   "reliability": 0.3,
   "corroboration": 0.25,
@@ -10,116 +10,118 @@
  },
  "windows": {
   "daily": {
-   "from": "2026-11-13T13:00:00Z",
-   "to": "2026-11-14T13:00:00Z",
+   "from": "2026-11-13T19:05:17Z",
+   "to": "2026-11-14T19:05:17Z",
    "halfLifeHours": 12,
    "picks": [
     {
      "article": {
-      "id": "ffbd1a64645c93e8",
-      "url": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
-      "sourceId": "guardian-ai",
-      "sourceName": "The Guardian — Artificial intelligence",
-      "title": "‘The social contract is broken’: young people on feeling shut out of careers",
-      "excerpt": "In the first instalment of a new series, four young people reveal the impact of an endless cycle of applications and rejections Guardian to follow lives of eight young people in their search for jobs “I’ve been demoralised by the process, just constantly applying, then interviewing. I’ve just been applying to any jobs that I could find. I’d really like to be employed by now. Some companies don’t…",
+      "id": "0446b4f8b26ddb27",
+      "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es",
+      "sourceId": "nvidia-youtube",
+      "sourceName": "NVIDIA (YouTube)",
+      "title": "From AI Factories to Intelligent Cities",
+      "excerpt": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastructure and city-led governance support safer streets, more responsive operations, and stronger local AI innovation. #SCEWC26 #SmartCities #aiagents ➡️ Learn more: https://nvda.ws/3Vb9wWH",
       "lang": "en",
-      "publishedAt": "2026-11-14T10:00:42Z",
+      "publishedAt": "2026-11-14T17:48:26Z",
       "dateEstimated": false,
-      "fetchedAt": "2026-11-14T14:15:40Z",
+      "fetchedAt": "2026-11-14T19:16:32Z",
       "day": "2026-11-14",
-      "category": "policy",
-      "tags": [
-       "business",
-       "job hunting",
-       "youth unemployment",
-       "work experience",
-       "unemployment",
-       "young people"
+      "category": "hardware",
+      "tags": [],
+      "entities": [
+       "nvidia"
       ],
-      "entities": [],
       "brand": null,
       "image": {
-       "url": "https://i.guim.co.uk/img/media/860911eab1a0affc10c2e4feb5a296c6527679b1/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=aa9b3d1a1e38dc826d94880fa77ac93c",
-       "credit": "Composite: Guardian Design/Getty Images/AFP/Alamy",
+       "url": "https://i1.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
        "kind": "feed",
-       "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
+       "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g"
       },
-      "eventId": "ffbd1a64645c93e8",
+      "video": {
+       "provider": "youtube",
+       "id": "ha-gDrDm8Es",
+       "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+      },
+      "eventId": "0446b4f8b26ddb27",
       "related": [],
       "score": {
-       "total": 62.9,
+       "total": 68.0,
        "parts": {
-        "reliability": 80.0,
+        "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 84.1,
-        "topic": 85.0,
-        "novelty": 92.9
+        "recency": 92.9,
+        "topic": 70.0,
+        "novelty": 88.9
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
-        "title": "قرارداد اجتماعی شکسته شده است: جوانان احساس می کنند از شغل خارج می شوند",
-        "excerpt": "در اولین شکست یک سری جدید، چهار جوان تاثیر یک چرخه بی پایان از برنامه ها و رد نگهبانان را نشان می دهند تا زندگی هشت جوان را در جستجوی شغل خود دنبال کنند: \"من توسط فرآیند تخریب شده ام، فقط به طور مداوم درخواست، سپس مصاحبه. من فقط برای هر شغلی که بتوانم پیدا کنم، درخواست کرده ام. واقعا دوست دارم تا الان استخدام شوم. برخی از شرکت ها ...",
+        "title": "از عوامل هوش مصنوعی تا شهرهای هوشمند",
+        "excerpt": "کارخانه های AI، AI فیزیکی و عوامل، ساخته شده با شرکای محلی کمک به شهرها برای بهبود برنامه ریزی، عملیات و خدمات عمومی است. یاد بگیرید که چگونه زیرساخت های مشترک و حمایت از مدیریت شهری امن تر خیابان ها، عملیات پاسخگو تر و نوآوری های قوی تر AI محلی است. #SCEWC26 #SmartCities # aiagents بیشتر یاد می گیرند: https://nvda.ws / 3Vb9wWHwWHW",
         "engine": "argos-en_fa-1.5",
-        "at": "2026-11-14T14:15:40Z"
+        "at": "2026-11-14T19:16:32Z"
        }
       }
      },
      "rank": 1,
      "sources": 1,
      "reason": [
-      "tier-2",
+      "tier-1",
       "first-report",
       "top-factor-reliability"
      ]
     },
     {
      "article": {
-      "id": "75cfd6180da45505",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED — AI",
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "excerpt": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "id": "7640cc164999215c",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "sourceId": "guardian-ai",
+      "sourceName": "The Guardian — Artificial intelligence",
+      "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+      "excerpt": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email, free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment…",
       "lang": "en",
-      "publishedAt": "2026-11-14T13:00:00Z",
+      "publishedAt": "2026-11-14T19:00:52Z",
       "dateEstimated": false,
-      "fetchedAt": "2026-11-14T14:15:40Z",
+      "fetchedAt": "2026-11-14T19:16:32Z",
       "day": "2026-11-14",
-      "category": "business",
+      "category": "policy",
       "tags": [
-       "security",
-       "security / cyberattacks and hacks",
-       "kernel panic",
-       "ransomware",
-       "cybersecurity"
+       "australian politics",
+       "ai (artificial intelligence)",
+       "datacentres - australia",
+       "technology",
+       "australia news",
+       "liberal party"
       ],
       "entities": [],
       "brand": null,
       "image": {
-       "url": "images/fallbacks/business.svg",
-       "kind": "fallback"
+       "url": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=700&quality=85&auto=format&fit=max&s=dbbbdbf07041efa9858063ea5d5d1906",
+       "credit": "Photograph: Lukas Coch/AAP",
+       "kind": "feed",
+       "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
       },
-      "eventId": "75cfd6180da45505",
+      "eventId": "7640cc164999215c",
       "related": [],
       "score": {
-       "total": 62.2,
+       "total": 66.0,
        "parts": {
         "reliability": 80.0,
         "corroboration": 0.0,
-        "recency": 100.0,
-        "topic": 55.0,
-        "novelty": 100.0
+        "recency": 99.6,
+        "topic": 85.0,
+        "novelty": 93.8
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
-        "title": "مراقب جدید AI-Fueled Ransomware",
-        "excerpt": "باج افزار کاملا خودکار هنوز وارد نشده است. اما به نظر می رسد مهاجمان ناخواسته از ابزارهای AI برای خرابکاری استفاده می کنند.",
+        "title": "\"باید در محراب سود شرکت قربانی نشود\" سناتور لیبرال می گوید که به عنوان بحث سیاست هوش مصنوعی خشم",
+        "excerpt": "اندرو McLachlan می گوید که او جنگل های واقعی را بر روی جنگل های مجازی انتخاب می کند، زیرا او از دولت کار می خواهد تاثیر هوش مصنوعی بر هنرمندان و محیط زیست را در نظر بگیرد ایمیل سیاسی روزانه ما، برنامه رایگان یا پادکست خبری روزانه، سناتور لیبرال اندرو مک لینلان، زنگ خطر را در مورد رویکرد حزب خود و دولت کار برای AI افزایش داده است، و از هنرمندان کپی رایت \"سرمایه گذاری جعلی\" درخواست نمی کند.",
         "engine": "argos-en_fa-1.5",
-        "at": "2026-11-14T14:15:40Z"
+        "at": "2026-11-14T19:16:32Z"
        }
       }
      },
@@ -133,51 +135,55 @@
     },
     {
      "article": {
-      "id": "3a1f57bc8115405c",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
-      "sourceId": "guardian-ai",
-      "sourceName": "The Guardian — Artificial intelligence",
-      "title": "‘It’s like the wild west’: how AI has rocked the literary world",
-      "excerpt": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing? The romance novelist Coral Hart got her break writing books for Mills & Boon, the publisher of bodice-ripper paperbacks. In 2012, she decided to dip her toe in self-publishing. She felt…",
+      "id": "d46b516a4c8344dc",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge — AI",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "excerpt": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on",
       "lang": "en",
-      "publishedAt": "2026-11-14T09:00:40Z",
+      "publishedAt": "2026-11-14T15:00:00Z",
       "dateEstimated": false,
-      "fetchedAt": "2026-11-14T14:15:40Z",
+      "fetchedAt": "2026-11-14T19:16:32Z",
       "day": "2026-11-14",
-      "category": "policy",
+      "category": "safety",
       "tags": [
-       "books",
-       "publishing",
-       "ai (artificial intelligence)",
-       "fiction"
+       "ai",
+       "anthropic",
+       "decoder",
+       "openai",
+       "podcasts",
+       "policy"
       ],
-      "entities": [],
-      "brand": null,
+      "entities": [
+       "openai"
+      ],
+      "brand": "openai",
       "image": {
-       "url": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=700&quality=85&auto=format&fit=max&s=4a75dd3a315e4527b45a0ffd886e35be",
-       "credit": "Illustration: Ricardo Tomás/The Guardian",
+       "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100",
+       "alt": "A photo illustration of CSET executive director Helen Toner.",
        "kind": "feed",
-       "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
+       "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
       },
-      "eventId": "3a1f57bc8115405c",
+      "eventId": "d46b516a4c8344dc",
       "related": [],
       "score": {
-       "total": 61.7,
+       "total": 61.3,
        "parts": {
         "reliability": 80.0,
         "corroboration": 0.0,
-        "recency": 79.4,
-        "topic": 85.0,
-        "novelty": 90.9
+        "recency": 79.0,
+        "topic": 90.0,
+        "novelty": 80.0
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
-        "title": "\"این شبیه غرب وحشی\" است: چگونه AI جهان ادبی را سنگ زده است",
-        "excerpt": "با نویسندگان از دست دادن معاملات سودآور و نویسندگان حذف شده از لیست های جایزه، اتهامات استفاده از AI موج های شوک را از طریق صنعت انتشارات ارسال می کند. آیا خیلی دیر است که جریان نوشتن ماشین را روشن کنیم؟ کور هارت رمان نویس عاشقانه او را به شکستن کتاب های نوشتن برای میلز و بوون، ناشر مقاله های فیزیکی-ریپر. در سال 2012، او تصمیم گرفت که او را در انتشارات خود غرق کند. احساس کرد ...",
+        "title": "عضو هیئت مدیره OpenAI که Sam Altman را اخراج کرد می گوید ما هنوز نمی توانیم به مدیران اجرایی AI اعتماد کنیم",
+        "excerpt": "امروز من با هلن تونر، مدیر اجرایی مرکز امنیت و فناوری نوظهور در دانشگاه جورج تاون صحبت می کنم. این قسمت بخشی از مجموعه ما در AI در زندگی واقعی است. هلن یک شخصیت شناخته شده در جامعه ایمنی و سیاست AI است، هر چند او احتمالا به خاطر خدمت در آن شناخته شده است.",
         "engine": "argos-en_fa-1.5",
-        "at": "2026-11-14T14:15:40Z"
+        "at": "2026-11-14T19:16:32Z"
        }
       }
      },
@@ -191,115 +197,57 @@
     },
     {
      "article": {
-      "id": "7544c26f6d39ea35",
-      "url": "https://www.youtube.com/shorts/pfbfZKxUEDQ",
-      "sourceId": "openai-youtube",
-      "sourceName": "OpenAI (YouTube)",
-      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
-      "excerpt": "Mozilla’s Brian Grinstead shares how early testing with GPT-6 Cyber identified new vulnerabilities and opportunities to strengthen Firefox’s defenses, helping the team work toward an ambitious goal: zero bugs. Watch the full conversation with OpenAI’s Clint Gibler to learn more.",
+      "id": "b08cefd9996dfc5a",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "lang": "en",
-      "publishedAt": "2026-11-13T16:38:23Z",
+      "publishedAt": "2026-11-14T17:30:00Z",
       "dateEstimated": false,
-      "fetchedAt": "2026-11-13T17:51:16Z",
-      "day": "2026-11-13",
-      "category": "models",
-      "tags": [],
+      "fetchedAt": "2026-11-14T19:16:32Z",
+      "day": "2026-11-14",
+      "category": "products",
+      "tags": [
+       "ai",
+       "microsoft",
+       "openai",
+       "evergreens",
+       "siri ai"
+      ],
       "entities": [
+       "apple",
        "openai"
       ],
-      "brand": "openai",
+      "brand": null,
       "image": {
-       "url": "https://i1.ytimg.com/vi/pfbfZKxUEDQ/hqdefault.jpg",
-       "kind": "feed",
-       "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A"
+       "url": "images/fallbacks/products.svg",
+       "kind": "fallback"
       },
-      "video": {
-       "provider": "youtube",
-       "id": "pfbfZKxUEDQ",
-       "url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ"
-      },
-      "eventId": "7544c26f6d39ea35",
+      "eventId": "b08cefd9996dfc5a",
       "related": [],
       "score": {
-       "total": 59.7,
+       "total": 61.2,
        "parts": {
-        "reliability": 100.0,
+        "reliability": 80.0,
         "corroboration": 0.0,
-        "recency": 30.8,
-        "topic": 100.0,
-        "novelty": 85.7
+        "recency": 91.2,
+        "topic": 65.0,
+        "novelty": 91.7
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
-        "title": "چگونه موزیلا امنیت فایرفاکس را با GPT-6 سایبری تقویت می کند",
-        "excerpt": "Brian Grinstead موزیلا به اشتراک می گذارد که چگونه آزمایش های اولیه با GPT-6 Cyber آسیب پذیری ها و فرصت های جدیدی را برای تقویت دفاع از فایرفاکس شناسایی کرد و به تیم کمک کرد تا به سمت یک هدف بلند پروازانه کار کند: باگ های صفر. نگاهی به گفتگوی کامل با Clint Gibler OpenAI برای یادگیری بیشتر.",
+        "title": "قبرستان هوش مصنوعی: لیستی از پروژه ها و استارتاپ هایی که آن را ساخته بودند",
+        "excerpt": "از اپل به تاخیر انداختن Siri AI برای باز کردن برنامه \"برنامه بالا\" پیچیده، در اینجا نگاهی به پروژه های AI که خاموش یا از دست رفته انتظارات.",
         "engine": "argos-en_fa-1.5",
-        "at": "2026-11-13T17:51:16Z"
+        "at": "2026-11-14T19:16:32Z"
        }
       }
      },
      "rank": 4,
-     "sources": 1,
-     "reason": [
-      "tier-1",
-      "first-report",
-      "top-factor-reliability"
-     ]
-    },
-    {
-     "article": {
-      "id": "b236925dc8a57c24",
-      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED — AI",
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "excerpt": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "lang": "en",
-      "publishedAt": "2026-11-14T11:00:00Z",
-      "dateEstimated": false,
-      "fetchedAt": "2026-11-14T14:15:40Z",
-      "day": "2026-11-14",
-      "category": "business",
-      "tags": [
-       "the big story",
-       "business",
-       "business / transportation",
-       "longreads",
-       "ai safety",
-       "aviation"
-      ],
-      "entities": [],
-      "brand": null,
-      "image": {
-       "url": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
-       "kind": "feed",
-       "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss"
-      },
-      "eventId": "b236925dc8a57c24",
-      "related": [],
-      "score": {
-       "total": 58.6,
-       "parts": {
-        "reliability": 80.0,
-        "corroboration": 0.0,
-        "recency": 89.1,
-        "topic": 55.0,
-        "novelty": 85.7
-       },
-       "asOf": "2026-11-14T13:00:00Z"
-      },
-      "tr": {
-       "fa": {
-        "title": "هیچ خلبانی کمتر کنترل کننده های ترافیک هوایی چه چیزی می تواند اشتباه کند؟",
-        "excerpt": "به طور معمول، حمل و نقل هوایی برای پذیرش تکنولوژی جدید آهسته است، اما AI برای آسمان آمده است.",
-        "engine": "argos-en_fa-1.5",
-        "at": "2026-11-14T14:15:40Z"
-       }
-      }
-     },
-     "rank": 5,
      "sources": 1,
      "reason": [
       "tier-2",
@@ -309,59 +257,122 @@
     },
     {
      "article": {
-      "id": "be81354d8a302a35",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
-      "sourceId": "google-research",
-      "sourceName": "Google Research Blog",
-      "title": "Advancing science & engineering with Antigravity’s /teamwork",
-      "excerpt": "Education Innovation",
+      "id": "a5dca2d386f6a667",
+      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5",
+      "sourceId": "the-decoder",
+      "sourceName": "The Decoder",
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "excerpt": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder.",
       "lang": "en",
-      "publishedAt": "2026-11-13T20:47:18Z",
+      "publishedAt": "2026-11-14T16:42:56Z",
       "dateEstimated": false,
-      "fetchedAt": "2026-11-13T23:39:51Z",
-      "day": "2026-11-13",
-      "category": "research",
+      "fetchedAt": "2026-11-14T19:16:32Z",
+      "day": "2026-11-14",
+      "category": "models",
       "tags": [
-       "education innovation",
-       "general science",
-       "machine intelligence",
-       "natural language processing"
+       "ai in practice",
+       "artificial intelligence",
+       "anthropic",
+       "claude",
+       "claude opus"
       ],
       "entities": [
-       "google"
+       "anthropic"
       ],
-      "brand": null,
+      "brand": "claude",
       "image": {
-       "url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg",
+       "url": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
        "kind": "feed",
-       "sourceUrl": "https://research.google/blog/rss/"
+       "sourceUrl": "https://the-decoder.com/feed/"
       },
-      "eventId": "be81354d8a302a35",
+      "eventId": "a5dca2d386f6a667",
       "related": [],
       "score": {
-       "total": 58.6,
+       "total": 58.8,
        "parts": {
-        "reliability": 100.0,
+        "reliability": 60.0,
         "corroboration": 0.0,
-        "recency": 39.2,
-        "topic": 80.0,
-        "novelty": 87.5
+        "recency": 87.2,
+        "topic": 100.0,
+        "novelty": 83.3
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
-        "title": "ارتقاء علم و مهندسی با ضد جاذبه / کار تیمی",
-        "excerpt": "آموزش نوآوری",
+        "title": "Anthropic می گوید که عادت های قدیمی باعث کند شدن کلود Opus 5.5",
+        "excerpt": "Anthropic ساخته شده است کلود Opus 5.5 مدل پیش فرض در تمام برنامه های پرداخت شده و منتشر یک راهنمای که دور با عادت های قدیمی است. نکته اصلی این است که \"سخت فکر کنید\" را رها کنید و در تلاش های متوسط شروع کنید. مقاله Anthropic می گوید که عادت های قدیمی باعث کند شدن کلود Opus 5.5 در ابتدا در Decoder ظاهر شد.",
         "engine": "argos-en_fa-1.5",
-        "at": "2026-11-13T23:39:51Z"
+        "at": "2026-11-14T19:16:32Z"
+       }
+      }
+     },
+     "rank": 5,
+     "sources": 1,
+     "reason": [
+      "tier-3",
+      "first-report",
+      "top-factor-reliability"
+     ]
+    },
+    {
+     "article": {
+      "id": "d82d2c1dae8dfaa0",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
+      "sourceId": "the-decoder",
+      "sourceName": "The Decoder",
+      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "excerpt": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared…",
+      "lang": "en",
+      "publishedAt": "2026-11-14T16:48:01Z",
+      "dateEstimated": false,
+      "fetchedAt": "2026-11-14T19:16:32Z",
+      "day": "2026-11-14",
+      "category": "models",
+      "tags": [
+       "ai in practice",
+       "artificial intelligence",
+       "short news",
+       "anthropic",
+       "openai"
+      ],
+      "entities": [
+       "anthropic",
+       "google",
+       "openai"
+      ],
+      "brand": null,
+      "image": {
+       "url": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+       "kind": "feed",
+       "sourceUrl": "https://the-decoder.com/feed/"
+      },
+      "eventId": "d82d2c1dae8dfaa0",
+      "related": [],
+      "score": {
+       "total": 58.7,
+       "parts": {
+        "reliability": 60.0,
+        "corroboration": 0.0,
+        "recency": 87.6,
+        "topic": 100.0,
+        "novelty": 81.8
+       },
+       "asOf": "2026-11-14T19:05:17Z"
+      },
+      "tr": {
+       "fa": {
+        "title": "Gemini 4 Carbon تاج Math Arena را می گیرد اما ۱۵ برابر بیشتر از GPT-6.1 Sol هزینه دارد",
+        "excerpt": "برای اولین بار در یک زمان، هیچ مدل OpenAI منجر به معیار ریاضی ریاضی ریاضی ریاضی ریاضی ریاضی Math Arena AI نمی شود. Google’s Gemini 4 Carbon و Anthropic's Fable 5.2 از بالا GPT-6.1 Sol را از بین برد، هر چند هر دو هزینه قابل توجهی بیشتر است. Gemini محدودیت زمانی را در آزمایش نادیده گرفت و تقریبا هیچ وقت تسلیم یک کار نشد. مقاله Gemini 4 Carbon تاج Math Arena را می گیرد اما 15 برابر بیشتر از GPT-6.1 Sol ظاهر شد.",
+        "engine": "argos-en_fa-1.5",
+        "at": "2026-11-14T19:16:32Z"
        }
       }
      },
      "rank": 6,
      "sources": 1,
      "reason": [
-      "tier-1",
+      "tier-3",
       "first-report",
       "top-factor-reliability"
      ]
@@ -369,8 +380,8 @@
    ]
   },
   "weekly": {
-   "from": "2026-11-07T13:00:00Z",
-   "to": "2026-11-14T13:00:00Z",
+   "from": "2026-11-07T19:05:17Z",
+   "to": "2026-11-14T19:05:17Z",
    "halfLifeHours": 72,
    "picks": [
     {
@@ -408,15 +419,15 @@
        "f1eea0a2781af6aa"
       ],
       "score": {
-       "total": 78.0,
+       "total": 77.6,
        "parts": {
         "reliability": 100.0,
         "corroboration": 87.5,
-        "recency": 33.7,
+        "recency": 31.8,
         "topic": 100.0,
         "novelty": 43.8
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -432,6 +443,65 @@
      "reason": [
       "tier-1",
       "voices-4",
+      "top-factor-reliability"
+     ]
+    },
+    {
+     "article": {
+      "id": "0446b4f8b26ddb27",
+      "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es",
+      "sourceId": "nvidia-youtube",
+      "sourceName": "NVIDIA (YouTube)",
+      "title": "From AI Factories to Intelligent Cities",
+      "excerpt": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastructure and city-led governance support safer streets, more responsive operations, and stronger local AI innovation. #SCEWC26 #SmartCities #aiagents ➡️ Learn more: https://nvda.ws/3Vb9wWH",
+      "lang": "en",
+      "publishedAt": "2026-11-14T17:48:26Z",
+      "dateEstimated": false,
+      "fetchedAt": "2026-11-14T19:16:32Z",
+      "day": "2026-11-14",
+      "category": "hardware",
+      "tags": [],
+      "entities": [
+       "nvidia"
+      ],
+      "brand": null,
+      "image": {
+       "url": "https://i1.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
+       "kind": "feed",
+       "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g"
+      },
+      "video": {
+       "provider": "youtube",
+       "id": "ha-gDrDm8Es",
+       "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+      },
+      "eventId": "0446b4f8b26ddb27",
+      "related": [],
+      "score": {
+       "total": 69.2,
+       "parts": {
+        "reliability": 100.0,
+        "corroboration": 0.0,
+        "recency": 98.8,
+        "topic": 70.0,
+        "novelty": 88.9
+       },
+       "asOf": "2026-11-14T19:05:17Z"
+      },
+      "tr": {
+       "fa": {
+        "title": "از عوامل هوش مصنوعی تا شهرهای هوشمند",
+        "excerpt": "کارخانه های AI، AI فیزیکی و عوامل، ساخته شده با شرکای محلی کمک به شهرها برای بهبود برنامه ریزی، عملیات و خدمات عمومی است. یاد بگیرید که چگونه زیرساخت های مشترک و حمایت از مدیریت شهری امن تر خیابان ها، عملیات پاسخگو تر و نوآوری های قوی تر AI محلی است. #SCEWC26 #SmartCities # aiagents بیشتر یاد می گیرند: https://nvda.ws / 3Vb9wWHwWHW",
+        "engine": "argos-en_fa-1.5",
+        "at": "2026-11-14T19:16:32Z"
+       }
+      }
+     },
+     "rank": 2,
+     "sources": 1,
+     "reason": [
+      "tier-1",
+      "first-report",
       "top-factor-reliability"
      ]
     },
@@ -467,15 +537,15 @@
       "eventId": "7544c26f6d39ea35",
       "related": [],
       "score": {
-       "total": 70.0,
+       "total": 69.1,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 82.2,
+        "recency": 77.5,
         "topic": 100.0,
         "novelty": 85.7
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -486,7 +556,7 @@
        }
       }
      },
-     "rank": 2,
+     "rank": 3,
      "sources": 1,
      "reason": [
       "tier-1",
@@ -520,15 +590,15 @@
       "eventId": "d1318183fe172893",
       "related": [],
       "score": {
-       "total": 68.6,
+       "total": 67.7,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 75.6,
+        "recency": 71.3,
         "topic": 100.0,
         "novelty": 84.6
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -539,7 +609,7 @@
        }
       }
      },
-     "rank": 3,
+     "rank": 4,
      "sources": 1,
      "reason": [
       "tier-1",
@@ -579,15 +649,15 @@
       "eventId": "be81354d8a302a35",
       "related": [],
       "score": {
-       "total": 67.8,
+       "total": 66.9,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 85.5,
+        "recency": 80.7,
         "topic": 80.0,
         "novelty": 87.5
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -598,10 +668,70 @@
        }
       }
      },
-     "rank": 4,
+     "rank": 5,
      "sources": 1,
      "reason": [
       "tier-1",
+      "first-report",
+      "top-factor-reliability"
+     ]
+    },
+    {
+     "article": {
+      "id": "7640cc164999215c",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "sourceId": "guardian-ai",
+      "sourceName": "The Guardian — Artificial intelligence",
+      "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+      "excerpt": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email, free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment…",
+      "lang": "en",
+      "publishedAt": "2026-11-14T19:00:52Z",
+      "dateEstimated": false,
+      "fetchedAt": "2026-11-14T19:16:32Z",
+      "day": "2026-11-14",
+      "category": "policy",
+      "tags": [
+       "australian politics",
+       "ai (artificial intelligence)",
+       "datacentres - australia",
+       "technology",
+       "australia news",
+       "liberal party"
+      ],
+      "entities": [],
+      "brand": null,
+      "image": {
+       "url": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=700&quality=85&auto=format&fit=max&s=dbbbdbf07041efa9858063ea5d5d1906",
+       "credit": "Photograph: Lukas Coch/AAP",
+       "kind": "feed",
+       "sourceUrl": "https://www.theguardian.com/technology/artificialintelligenceai/rss"
+      },
+      "eventId": "7640cc164999215c",
+      "related": [],
+      "score": {
+       "total": 66.1,
+       "parts": {
+        "reliability": 80.0,
+        "corroboration": 0.0,
+        "recency": 99.9,
+        "topic": 85.0,
+        "novelty": 93.8
+       },
+       "asOf": "2026-11-14T19:05:17Z"
+      },
+      "tr": {
+       "fa": {
+        "title": "\"باید در محراب سود شرکت قربانی نشود\" سناتور لیبرال می گوید که به عنوان بحث سیاست هوش مصنوعی خشم",
+        "excerpt": "اندرو McLachlan می گوید که او جنگل های واقعی را بر روی جنگل های مجازی انتخاب می کند، زیرا او از دولت کار می خواهد تاثیر هوش مصنوعی بر هنرمندان و محیط زیست را در نظر بگیرد ایمیل سیاسی روزانه ما، برنامه رایگان یا پادکست خبری روزانه، سناتور لیبرال اندرو مک لینلان، زنگ خطر را در مورد رویکرد حزب خود و دولت کار برای AI افزایش داده است، و از هنرمندان کپی رایت \"سرمایه گذاری جعلی\" درخواست نمی کند.",
+        "engine": "argos-en_fa-1.5",
+        "at": "2026-11-14T19:16:32Z"
+       }
+      }
+     },
+     "rank": 6,
+     "sources": 1,
+     "reason": [
+      "tier-2",
       "first-report",
       "top-factor-reliability"
      ]
@@ -633,15 +763,15 @@
       "eventId": "2427bacb74a96b4b",
       "related": [],
       "score": {
-       "total": 66.9,
+       "total": 66.0,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 83.3,
+        "recency": 78.6,
         "topic": 75.0,
         "novelty": 90.0
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -651,7 +781,7 @@
        }
       }
      },
-     "rank": 5,
+     "rank": 7,
      "sources": 1,
      "reason": [
       "tier-1",
@@ -686,141 +816,21 @@
       "eventId": "8400bdfe1e2afd49",
       "related": [],
       "score": {
-       "total": 66.5,
+       "total": 65.6,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 82.5,
+        "recency": 77.8,
         "topic": 75.0,
         "novelty": 87.5
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
         "title": "XYBench: کمک به مشکل پشت سوال",
         "engine": "argos-en_fa-1.5",
         "at": "2026-11-13T17:51:16Z"
-       }
-      }
-     },
-     "rank": 6,
-     "sources": 1,
-     "reason": [
-      "tier-1",
-      "first-report",
-      "top-factor-reliability"
-     ]
-    },
-    {
-     "article": {
-      "id": "a05d08fd0b1ba6de",
-      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
-      "sourceId": "aws-ml",
-      "sourceName": "AWS Machine Learning Blog",
-      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
-      "excerpt": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
-      "lang": "en",
-      "publishedAt": "2026-11-13T19:35:35Z",
-      "dateEstimated": false,
-      "fetchedAt": "2026-11-13T23:39:51Z",
-      "day": "2026-11-13",
-      "category": "hardware",
-      "tags": [
-       "amazon ec2",
-       "customer solutions"
-      ],
-      "entities": [
-       "amazon"
-      ],
-      "brand": null,
-      "image": {
-       "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/06/ML-20884-1.png",
-       "alt": "AssemblyAI inference architecture: Amazon ECS GPU Spot tasks poll an Amazon SQS queue, an AWS Lambda function returns interrupted jobs, and Amazon CloudWatch monitors the fleet",
-       "kind": "feed",
-       "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/feed/"
-      },
-      "eventId": "a05d08fd0b1ba6de",
-      "related": [],
-      "score": {
-       "total": 65.9,
-       "parts": {
-        "reliability": 100.0,
-        "corroboration": 0.0,
-        "recency": 84.6,
-        "topic": 70.0,
-        "novelty": 84.6
-       },
-       "asOf": "2026-11-14T13:00:00Z"
-      },
-      "tr": {
-       "fa": {
-        "title": "بهینه سازی هزینه سخنرانی به متن در AWS با Amazon EC2 Spot",
-        "excerpt": "یاد بگیرید که چگونه AssemblyAI در مقیاس AWS، با استفاده از ECS آمازون EC2 Spot GPU، و معماری مجدد مبتنی بر آمازون SQS برای دستیابی به ۷۰٪ صرفه جویی در هزینه در حالی که حفظ تعهدات SLA در سراسر مناطق اروپایی است.",
-        "engine": "argos-en_fa-1.5",
-        "at": "2026-11-13T23:39:51Z"
-       }
-      }
-     },
-     "rank": 7,
-     "sources": 1,
-     "reason": [
-      "tier-1",
-      "first-report",
-      "top-factor-reliability"
-     ]
-    },
-    {
-     "article": {
-      "id": "606399e29c9ee7e9",
-      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-      "sourceId": "mit-news-ai",
-      "sourceName": "MIT News — Artificial intelligence",
-      "title": "New AI “copilot” helps engineers design better structures",
-      "excerpt": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
-      "lang": "en",
-      "publishedAt": "2026-11-13T05:00:00Z",
-      "dateEstimated": false,
-      "fetchedAt": "2026-11-13T09:40:58Z",
-      "day": "2026-11-13",
-      "category": "research",
-      "tags": [
-       "research",
-       "algorithms",
-       "design",
-       "artificial intelligence",
-       "machine learning",
-       "computer modeling"
-      ],
-      "entities": [
-       "microsoft"
-      ],
-      "brand": null,
-      "image": {
-       "url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-ai-design-01-press.jpg?itok=mgkpfRIX",
-       "credit": "Image: MIT News; Getty Images",
-       "kind": "feed",
-       "sourceUrl": "https://news.mit.edu/rss/topic/artificial-intelligence2"
-      },
-      "eventId": "606399e29c9ee7e9",
-      "related": [],
-      "score": {
-       "total": 65.9,
-       "parts": {
-        "reliability": 100.0,
-        "corroboration": 0.0,
-        "recency": 73.5,
-        "topic": 80.0,
-        "novelty": 91.7
-       },
-       "asOf": "2026-11-14T13:00:00Z"
-      },
-      "tr": {
-       "fa": {
-        "title": "AI جدید کمک می کند تا مهندسان ساختارهای بهتر را طراحی کنند",
-        "excerpt": "این سیستم از انسان ها برای بازخورد برای افزایش اعتماد در طرح های تولید شده ماشین برای ساختمان ها و پل ها می پرسد.",
-        "engine": "argos-en_fa-1.5",
-        "at": "2026-11-13T09:40:58Z"
        }
       }
      },
@@ -835,8 +845,8 @@
    ]
   },
   "monthly": {
-   "from": "2026-10-15T13:00:00Z",
-   "to": "2026-11-14T13:00:00Z",
+   "from": "2026-10-15T19:05:17Z",
+   "to": "2026-11-14T19:05:17Z",
    "halfLifeHours": 240,
    "picks": [
     {
@@ -874,15 +884,15 @@
        "f1eea0a2781af6aa"
       ],
       "score": {
-       "total": 85.7,
+       "total": 85.4,
        "parts": {
         "reliability": 100.0,
         "corroboration": 87.5,
-        "recency": 72.2,
+        "recency": 70.9,
         "topic": 100.0,
         "novelty": 43.8
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -933,15 +943,15 @@
       "eventId": "7544c26f6d39ea35",
       "related": [],
       "score": {
-       "total": 72.4,
+       "total": 72.1,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 94.3,
+        "recency": 92.6,
         "topic": 100.0,
         "novelty": 85.7
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -986,15 +996,15 @@
       "eventId": "d1318183fe172893",
       "related": [],
       "score": {
-       "total": 71.9,
+       "total": 71.5,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 92.0,
+        "recency": 90.4,
         "topic": 100.0,
         "novelty": 84.6
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -1041,15 +1051,15 @@
        "41e0dc889e76cc16"
       ],
       "score": {
-       "total": 71.2,
+       "total": 71.1,
        "parts": {
         "reliability": 100.0,
         "corroboration": 50.0,
-        "recency": 31.1,
+        "recency": 30.6,
         "topic": 100.0,
         "novelty": 75.0
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -1100,15 +1110,15 @@
        "45da7994669e5304"
       ],
       "score": {
-       "total": 71.1,
+       "total": 70.8,
        "parts": {
         "reliability": 80.0,
         "corroboration": 50.0,
-        "recency": 67.4,
+        "recency": 66.2,
         "topic": 85.0,
         "novelty": 83.3
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -1160,15 +1170,15 @@
       "eventId": "be81354d8a302a35",
       "related": [],
       "score": {
-       "total": 69.8,
+       "total": 69.5,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 95.4,
+        "recency": 93.8,
         "topic": 80.0,
         "novelty": 87.5
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -1221,15 +1231,15 @@
        "998ff01b393f5b93"
       ],
       "score": {
-       "total": 69.6,
+       "total": 69.4,
        "parts": {
         "reliability": 80.0,
         "corroboration": 75.0,
-        "recency": 41.7,
+        "recency": 40.9,
         "topic": 70.0,
         "novelty": 80.0
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -1245,6 +1255,65 @@
      "reason": [
       "tier-2",
       "voices-3",
+      "first-report",
+      "top-factor-reliability"
+     ]
+    },
+    {
+     "article": {
+      "id": "0446b4f8b26ddb27",
+      "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es",
+      "sourceId": "nvidia-youtube",
+      "sourceName": "NVIDIA (YouTube)",
+      "title": "From AI Factories to Intelligent Cities",
+      "excerpt": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastructure and city-led governance support safer streets, more responsive operations, and stronger local AI innovation. #SCEWC26 #SmartCities #aiagents ➡️ Learn more: https://nvda.ws/3Vb9wWH",
+      "lang": "en",
+      "publishedAt": "2026-11-14T17:48:26Z",
+      "dateEstimated": false,
+      "fetchedAt": "2026-11-14T19:16:32Z",
+      "day": "2026-11-14",
+      "category": "hardware",
+      "tags": [],
+      "entities": [
+       "nvidia"
+      ],
+      "brand": null,
+      "image": {
+       "url": "https://i1.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
+       "kind": "feed",
+       "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g"
+      },
+      "video": {
+       "provider": "youtube",
+       "id": "ha-gDrDm8Es",
+       "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+      },
+      "eventId": "0446b4f8b26ddb27",
+      "related": [],
+      "score": {
+       "total": 69.3,
+       "parts": {
+        "reliability": 100.0,
+        "corroboration": 0.0,
+        "recency": 99.6,
+        "topic": 70.0,
+        "novelty": 88.9
+       },
+       "asOf": "2026-11-14T19:05:17Z"
+      },
+      "tr": {
+       "fa": {
+        "title": "از عوامل هوش مصنوعی تا شهرهای هوشمند",
+        "excerpt": "کارخانه های AI، AI فیزیکی و عوامل، ساخته شده با شرکای محلی کمک به شهرها برای بهبود برنامه ریزی، عملیات و خدمات عمومی است. یاد بگیرید که چگونه زیرساخت های مشترک و حمایت از مدیریت شهری امن تر خیابان ها، عملیات پاسخگو تر و نوآوری های قوی تر AI محلی است. #SCEWC26 #SmartCities # aiagents بیشتر یاد می گیرند: https://nvda.ws / 3Vb9wWHwWHW",
+        "engine": "argos-en_fa-1.5",
+        "at": "2026-11-14T19:16:32Z"
+       }
+      }
+     },
+     "rank": 8,
+     "sources": 1,
+     "reason": [
+      "tier-1",
       "first-report",
       "top-factor-reliability"
      ]
@@ -1284,15 +1353,15 @@
       "eventId": "606399e29c9ee7e9",
       "related": [],
       "score": {
-       "total": 69.4,
+       "total": 69.1,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 91.2,
+        "recency": 89.6,
         "topic": 80.0,
         "novelty": 91.7
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
@@ -1303,7 +1372,7 @@
        }
       }
      },
-     "rank": 8,
+     "rank": 9,
      "sources": 1,
      "reason": [
       "tier-1",
@@ -1338,75 +1407,21 @@
       "eventId": "2427bacb74a96b4b",
       "related": [],
       "score": {
-       "total": 69.2,
+       "total": 68.8,
        "parts": {
         "reliability": 100.0,
         "corroboration": 0.0,
-        "recency": 94.7,
+        "recency": 93.0,
         "topic": 75.0,
         "novelty": 90.0
        },
-       "asOf": "2026-11-14T13:00:00Z"
+       "asOf": "2026-11-14T19:05:17Z"
       },
       "tr": {
        "fa": {
         "title": "ساخت شبیه سازی Robot Pick-and-Place با دارایی های SimReady",
         "engine": "argos-en_fa-1.5",
         "at": "2026-11-13T18:08:33Z"
-       }
-      }
-     },
-     "rank": 9,
-     "sources": 1,
-     "reason": [
-      "tier-1",
-      "first-report",
-      "top-factor-reliability"
-     ]
-    },
-    {
-     "article": {
-      "id": "40e78db6601d46e6",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face Blog",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "excerpt": "",
-      "lang": "en",
-      "publishedAt": "2026-11-13T14:05:22Z",
-      "dateEstimated": false,
-      "fetchedAt": "2026-11-13T17:51:16Z",
-      "day": "2026-11-13",
-      "category": "open-source",
-      "tags": [],
-      "entities": [
-       "huggingface",
-       "meta"
-      ],
-      "brand": null,
-      "image": {
-       "url": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
-       "kind": "og",
-       "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-      },
-      "eventId": "40e78db6601d46e6",
-      "related": [],
-      "score": {
-       "total": 69.1,
-       "parts": {
-        "reliability": 100.0,
-        "corroboration": 0.0,
-        "recency": 93.6,
-        "topic": 75.0,
-        "novelty": 90.9
-       },
-       "asOf": "2026-11-14T13:00:00Z"
-      },
-      "tr": {
-       "fa": {
-        "title": "llama.cpp v1.0.0: یک پایه قوی تر برای اکوسیستم AI محلی",
-        "engine": "argos-en_fa-1.5",
-        "at": "2026-11-13T17:51:16Z"
        }
       }
      },

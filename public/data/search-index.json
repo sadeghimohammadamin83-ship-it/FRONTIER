@@ -3,6 +3,127 @@
  "windowDays": 90,
  "entries": [
   {
+   "id": "3a53f4732b0a8eba",
+   "d": "2026-11-14",
+   "t": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "s": "the-decoder",
+   "sn": "The Decoder",
+   "c": "business",
+   "b": "claude",
+   "e": [
+    "anthropic"
+   ],
+   "x": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthrop",
+   "p": "2026-11-14T19:05:17Z",
+   "tf": "مدیر عامل Anthropic Amodei اذعان می کند که \"در آنچه که سال آینده اتفاق می افتد، تردید زیادی وجود دارد\" روز قبل از ثبت IPO"
+  },
+  {
+   "id": "7640cc164999215c",
+   "d": "2026-11-14",
+   "t": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+   "s": "guardian-ai",
+   "sn": "The Guardian — Artificial intelligence",
+   "c": "policy",
+   "b": null,
+   "e": [],
+   "x": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily ",
+   "p": "2026-11-14T19:00:52Z",
+   "tf": "\"باید در محراب سود شرکت قربانی نشود\" سناتور لیبرال می گوید که به عنوان بحث سیاست هوش مصنوعی خشم"
+  },
+  {
+   "id": "0446b4f8b26ddb27",
+   "d": "2026-11-14",
+   "t": "From AI Factories to Intelligent Cities",
+   "s": "nvidia-youtube",
+   "sn": "NVIDIA (YouTube)",
+   "c": "hardware",
+   "b": null,
+   "e": [
+    "nvidia"
+   ],
+   "x": "AI factories, physical AI, and agents, built with local partners are helping cities improve planning, operations, and public services. Learn how shared infrastr",
+   "p": "2026-11-14T17:48:26Z",
+   "tf": "از عوامل هوش مصنوعی تا شهرهای هوشمند"
+  },
+  {
+   "id": "b08cefd9996dfc5a",
+   "d": "2026-11-14",
+   "t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "s": "techcrunch-ai",
+   "sn": "TechCrunch AI",
+   "c": "products",
+   "b": null,
+   "e": [
+    "apple",
+    "openai"
+   ],
+   "x": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "p": "2026-11-14T17:30:00Z",
+   "tf": "قبرستان هوش مصنوعی: لیستی از پروژه ها و استارتاپ هایی که آن را ساخته بودند"
+  },
+  {
+   "id": "d82d2c1dae8dfaa0",
+   "d": "2026-11-14",
+   "t": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "s": "the-decoder",
+   "sn": "The Decoder",
+   "c": "models",
+   "b": null,
+   "e": [
+    "anthropic",
+    "google",
+    "openai"
+   ],
+   "x": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 So",
+   "p": "2026-11-14T16:48:01Z",
+   "tf": "Gemini 4 Carbon تاج Math Arena را می گیرد اما ۱۵ برابر بیشتر از GPT-6.1 Sol هزینه دارد"
+  },
+  {
+   "id": "a5dca2d386f6a667",
+   "d": "2026-11-14",
+   "t": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "s": "the-decoder",
+   "sn": "The Decoder",
+   "c": "models",
+   "b": "claude",
+   "e": [
+    "anthropic"
+   ],
+   "x": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to d",
+   "p": "2026-11-14T16:42:56Z",
+   "tf": "Anthropic می گوید که عادت های قدیمی باعث کند شدن کلود Opus 5.5"
+  },
+  {
+   "id": "2a2bfff1121f561b",
+   "d": "2026-11-14",
+   "t": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "s": "techcrunch-ai",
+   "sn": "TechCrunch AI",
+   "c": "business",
+   "b": null,
+   "e": [
+    "nvidia"
+   ],
+   "x": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "p": "2026-11-14T16:34:15Z",
+   "tf": "دولت های آسیایی نسبت به خروج Jensen Huang مدیرعامل Nvidia واکنش نشان می دهند"
+  },
+  {
+   "id": "d46b516a4c8344dc",
+   "d": "2026-11-14",
+   "t": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "s": "verge-ai",
+   "sn": "The Verge — AI",
+   "c": "safety",
+   "b": "openai",
+   "e": [
+    "openai"
+   ],
+   "x": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part tw",
+   "p": "2026-11-14T15:00:00Z",
+   "tf": "عضو هیئت مدیره OpenAI که Sam Altman را اخراج کرد می گوید ما هنوز نمی توانیم به مدیران اجرایی AI اعتماد کنیم"
+  },
+  {
    "id": "75cfd6180da45505",
    "d": "2026-11-14",
    "t": "Beware the New AI-Fueled Ransomware Boom",
